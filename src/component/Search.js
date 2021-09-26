@@ -30,7 +30,7 @@ class Search extends Component {
     }
 
     getArticles(apiUrl) {
-        this.setState({ articles: [] });
+        this.setState({ data: [] });
         axios.get(apiUrl)
             .then((response) => {
                 const data = response.data.articles;
