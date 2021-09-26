@@ -18,7 +18,7 @@ class Display extends Component {
      * Get news articles from the API and process data
      */
     getArticles() {
-        this.setState({ articles: [] });
+        this.setState({ data: [] });
         axios.get(`https://newsapi.org/v2/top-headlines?country=gb&apiKey=f286287c617f41169b25a7beb60ff931`)
             .then((response) => {
                 const data = response.data.articles;
