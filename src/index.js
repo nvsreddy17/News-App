@@ -3,8 +3,6 @@ import { render } from 'react-dom';
 
 import App from './components/App';
 
-import registerServiceWorker from './registerServiceWorker';
-
 import './css/bootstrap.min.css';
 import './css/style.css';
 
@@ -31,4 +29,3 @@ const Root = () => {
   )
 }
 render(<Root />, document.querySelector('#root'));
-registerServiceWorker();
