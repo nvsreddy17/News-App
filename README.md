@@ -2,6 +2,10 @@
 
 Application to view the Top headlines in UK
 
+![image](https://user-images.githubusercontent.com/27275917/134809660-581ec414-165c-4dc8-920c-190b06413c5d.png)
+
+![image](https://user-images.githubusercontent.com/27275917/134809627-622185b0-417a-4a42-8e34-4e199d2e4925.png)
+
 Built with [React](https://reactjs.org/) as frontend JavaScript framework.
 
 ## Requirements
@@ -39,3 +43,7 @@ f286287c617f41169b25a7beb60ff931
 
 ### Development Server
 Run `npm run start` for a development server. Navigate to `http://localhost:5000/`.
+
+### Usage
+1. Click on Search for search news.
+2. Click on Home/News header for getting the Top headlines in UK.
