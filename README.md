@@ -7,12 +7,12 @@ Built with [React](https://reactjs.org/) as frontend JavaScript framework.
 ## Requirements
 
 - [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/en/) >8.x and [npm](https://www.npmjs.com/)
+- [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)
 - [Express](https://expressjs.com/)
 - [News API](https://newsapi.org/) key
 - [Bootstrap 4](https://getbootstrap.com/)
 - [Webpack](https://webpack.js.org/)
-- [Babel] (https://babeljs.io/)
+- [Babel](https://babeljs.io/)
 
 
 ## Installation
