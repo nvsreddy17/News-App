@@ -22,7 +22,7 @@ Built with [React](https://reactjs.org/) as frontend JavaScript framework.
 ```sh
 git clone https://github.com/nvsreddy17/News-App.git
 ```
-
+### Download source code using zip file and perform the following operations
 ### Install dependencies
 
 Install `npm` dependencies with NPM:
